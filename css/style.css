@@ -16,13 +16,20 @@ body {
 }
 .bg-yellow {
   background-color: #fbc103;
+  margin: 3px;
 }
 .bg-purple {
   background-color: #9a57e1;
+  margin: 5px;
 }
 .bg-blue {
   background-color: #53c8d1;
+  margin: 5px;
 }
 .bg-green {
   background-color: #c1ff76;
+  margin: 5px;
+}
+img {
+  border-radius: 15%;
 }
